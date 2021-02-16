@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/android-hacker/VirtualXposed.svg?branch=exposed)](https://travis-ci.org/android-hacker/VirtualXposed)
+
 
 简介
 -----
